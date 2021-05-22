@@ -8,4 +8,4 @@ public class Demo {
 System.out.println("FOR PULL OPERATION");			
 		}
 	}
-}
+
